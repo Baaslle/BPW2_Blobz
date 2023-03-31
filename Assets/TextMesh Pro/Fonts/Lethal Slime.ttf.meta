@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0c1ab278539e29041b6406c5a24a1fde
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Lethal Slime
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 99a8ecca89d616e4b9b4351d09515b78, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
